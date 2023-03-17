@@ -11,6 +11,6 @@ int main(void)
 		putchar(i);
 	for (i = 97 ; i < 103 ; i++)
 		pucthar(i);
-	pucthar('\n');
+	putchar('\n');
 	return (0);
 }
