@@ -8,3 +8,4 @@
 7-print_tebahpla.c C program writes alphabetslowercase and in reverse
 8-print_base16.c C program writes numbers of base 16 using putchar
 9-print_comb.c C program writes all combinations of single-digits
+100-print_comb3.c  a program that prints all possible different combinations of two digits.
