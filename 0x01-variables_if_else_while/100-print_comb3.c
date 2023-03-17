@@ -18,7 +18,7 @@ int main(void)
 			{
 				putchar(n);
 				putchar(i);
-				if (i == 57 && e == 56)
+				if (i == 57 && n == 56)
 				{
 					break;
 				}
