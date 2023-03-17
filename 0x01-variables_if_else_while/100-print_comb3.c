@@ -17,7 +17,7 @@ int main(void)
 		if (i != 56 && n != 57)
 		{
 			putchar(',');
-			pucthar(' ');
+			putchar(' ');
 		}
 	}
 	return (0);
