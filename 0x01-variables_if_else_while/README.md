@@ -6,3 +6,4 @@
 5-print_numbers.c writes number of base 10
 6-print_numberz.c writes numbers of base 10 using putchar 
 7-print_tebahpla.c C program writes alphabetslowercase and in reverse
+8-print_base16.c C program writes numbers of base 16 using putchar
