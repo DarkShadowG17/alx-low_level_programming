@@ -2,3 +2,4 @@
 1-last_digit.c print the last digit of the number stored in the variable n.
  2-print_alphabet.c C program prints alphabets in lowercase
 3-print_alphabets.c C program that writes alphabets in lowercase than in uppercase
+4-print_alphabt.c C program writes alphabets except e and q 
