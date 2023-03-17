@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - prints all possible combinations
  * Return: 0 if exited properly
@@ -11,25 +10,25 @@ int main(void)
 	i = 48;
 	n = 48;
 	while (n < 58)
+	{
+		i = 48;
+		while (i < 58)
 		{
-			i = 48;
-			while (i < 58)
+			if (n != i && n < i)
 			{
-				if (e != i && e < i)
+				putchar(n);
+				putchar(i);
+				if (i == 57 && e == 56)
 				{
-					putchar(n);
-					putchar(i);
-					if (i == 57 && e == 56)
-					{
-						break;
-					}
-					putchar(',');
-					putchar(' ');
+					break;
 				}
-				i++;
+				putchar(',');
+				putchar(' ');
 			}
-			n++;
+			i++;
 		}
+		n++;
+	}
 	putchar('\n');
 	return (0);
 }
