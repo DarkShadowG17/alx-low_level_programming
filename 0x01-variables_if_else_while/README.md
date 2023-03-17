@@ -5,3 +5,4 @@
 4-print_alphabt.c C program writes alphabets except e and q 
 5-print_numbers.c writes number of base 10
 6-print_numberz.c writes numbers of base 10 using putchar 
+7-print_tebahpla.c C program writes alphabetslowercase and in reverse
