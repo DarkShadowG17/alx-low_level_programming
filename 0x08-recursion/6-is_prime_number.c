@@ -5,7 +5,7 @@
  * @m: int
  * Return: bool
  */
-int divisors(int n, int m)
+int divided(int n, int m)
 {
 	if (m % n == 0)
 	{
