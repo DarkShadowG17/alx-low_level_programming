@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strlen-recursion - strlen
+ * _strlen_recursion - strlen
  * @s: ptr to char
  * Return: length
  */
@@ -16,7 +16,7 @@ int _strlen_recursion(char *s)
  * pali - palindrome
  * @s: ptr to char
  * @l: pos
- * Reurn: bool
+ * Return: bool
  */
 int pali(char *s, int l)
 {
