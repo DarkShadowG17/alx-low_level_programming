@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * _putchar - prints _putchar
+ * _putchar - prints char
  * @c: char
  * Return: 0 if success
  */
